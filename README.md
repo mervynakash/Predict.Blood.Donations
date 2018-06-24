@@ -30,7 +30,7 @@ xgBoost - Basic Method
 
 xgBoost - Advanced
 
-# Least Log Loss Algosrithms
+# Least Log Loss Algorithms
 Logistic Regression - 0.4488
 
 MARSpline Forward Pruning - 0.4488
@@ -44,4 +44,4 @@ xgBoost Advance - 0.5532
 xgBoost Basic - 0.5532
 
 
-Current Rank - 668
+# Current Rank - 668
