@@ -17,19 +17,30 @@ Use information about each donor's history
 
 # Algorithms Used
 Decision Tree
+
 Logistic Regression
+
 MARSpline - Forward Pruning
+
 MARSpline - Backward Pruning
+
 MARSpline  - Cross Validation
+
 xgBoost - Basic Method
+
 xgBoost - Advanced
 
 # Least Log Loss Algosrithms
 Logistic Regression - 0.4488
+
 MARSpline Forward Pruning - 0.4488
+
 MARSpline Backward Pruning - 0.4541
+
 MARSpline Cross Validation - 0.4541
+
 xgBoost Advance - 0.5532
+
 xgBoost Basic - 0.5532
 
 
